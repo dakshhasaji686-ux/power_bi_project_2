@@ -7,6 +7,8 @@ This project presents a Power BI dashboard for analyzing sales data. It highligh
 ## Dashboard Preview
 
 <img width="1138" height="701" alt="Screenshot 2026-04-01 180341" src="https://github.com/user-attachments/assets/f677b15b-4110-40b9-922d-d6270b3128af" />
+<img width="1433" height="730" alt="Screenshot 2026-04-01 180405" src="https://github.com/user-attachments/assets/cbdc45af-cd91-4538-a635-3519b3ced98a" />
+
 
 
 ## Key Insights
